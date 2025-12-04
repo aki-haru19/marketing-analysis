@@ -125,6 +125,6 @@ Tools: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook
 
 ===========================RECOMMENDATIONS ===========================
 
-PPC campaigns showed lower CAC and higher ROI, suggesting it’s worth focusing more on this channel and possibly increasing its budget., There’s also a noticeable gap between email opens and clicks — improving creatives or running A/B tests could help identify what drives higher engagement.
+PPC campaigns showed lower CAC and higher ROI, suggesting it’s worth focusing more on this channel and possibly increasing its budget. There’s also a noticeable gap between email opens and clicks — improving creatives or running A/B tests could help identify what drives higher engagement.
 Additionally, the 36–45 age group shows the highest conversion potential, so creating tailored campaigns for this audience could bring better results.
 Overall, segment-based A/B testing of marketing creatives would help refine the strategy and boost performance.
